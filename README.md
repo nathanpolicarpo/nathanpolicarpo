@@ -1,4 +1,4 @@
-<h1 align="left">Ola pessoal👋 Bem vindos.?</h1>
+<h1 align="left">Ola pessoal👋 Bem vindos!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -37,7 +37,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"
+  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
   <img width="12" />
